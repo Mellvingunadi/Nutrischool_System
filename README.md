@@ -5,4 +5,4 @@
 <h4>Mellvin Gunadi_Hacker</h4>
 <h4>Hendika Bagas_Hustler</h4>
 <h4>Ryan Ardiansyah_Hipster</h4>
-<h4>Fitria Indah Novitasari_Hipster/h4>
+<h4>Fitria Indah Novitasari_Hipster</h4>
